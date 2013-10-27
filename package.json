@@ -1,0 +1,17 @@
+{
+  "name": "Requiem",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.3",
+    "swig": "~1.1.0"
+  },
+  "devDependencies": {
+
+    "express": "~3.4.3"
+
+  }
+}
